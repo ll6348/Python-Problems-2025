@@ -1,6 +1,6 @@
 def powers_of_two(number_of_two_powers):
 
-    '''This function asks for the number until which you want the powers of 2.
+    '''This function asks for the number until which, you want the powers of 2.
     And returns a table of powers of 2 until the given number'''
 
     for i in range(number_of_two_powers + 1):
